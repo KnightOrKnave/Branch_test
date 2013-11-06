@@ -1,4 +1,4 @@
 <?php
 	//phpinfo()
-	phpinfo()
+	phpenfo()
 	print("testteset");
